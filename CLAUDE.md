@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-"Ceylon Ride" — a single-page marketing/booking site for Sri Lanka travel and vehicle hire. The whole site is one self-contained file, `index.html` (~1600 lines): inline `<style>`, markup, and inline `<script>`. There is no build step, package manager, linter, or test suite. To develop, open `index.html` in a browser (or serve the directory with any static server). Fonts and icons load from CDNs (Google Fonts, Font Awesome), so a network connection is needed to see them correctly.
+"CeylonRiderSL" — a single-page marketing/booking site for Sri Lanka travel and vehicle hire. The whole site is one self-contained file, `index.html` (~1600 lines): inline `<style>`, markup, and inline `<script>`. There is no build step, package manager, linter, or test suite. To develop, open `index.html` in a browser (or serve the directory with any static server). Fonts and icons load from CDNs (Google Fonts, Font Awesome), so a network connection is needed to see them correctly.
 
 ## Layout of `index.html`
 
